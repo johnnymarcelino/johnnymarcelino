@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub repo](https://github-readme-repo.vercel.app/api?username=johnnymarcelino&show_icons=true&theme=solarized-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=github-readme-stats)](https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET)
