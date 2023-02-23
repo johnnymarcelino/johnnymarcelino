@@ -21,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=github-readme-stats)](https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET)
 --->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
