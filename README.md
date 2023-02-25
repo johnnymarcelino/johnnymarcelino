@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
 
+--------------------------
+
 <a href="https://github.com/johnnymarcelino/CHALLENGES_CSHARP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
@@ -31,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/johnnymarcelino/SalesWebMVC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=SalesWebMVC" />
 </a>
+
+--------------------------
 
 <a href="https://github.com/johnnymarcelino/Learning-Language-CSHARP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
@@ -40,6 +44,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
 
+--------------------------
+
 <a href="https://github.com/johnnymarcelino/FreeCodeCamp-Responsive-Web-Design">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
@@ -48,6 +54,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
 
+--------------------------
+
 <a href="https://github.com/johnnymarcelino/The-First-Ultranova">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
@@ -55,6 +63,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/johnnymarcelino/Web-Profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
 </a>
+
 --------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymarcelino&langs_count=8)](https://github.com/johnnymarcelino/github-readme-stats)
