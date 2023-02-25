@@ -17,17 +17,17 @@ You can click the Preview link to take a look at your changes.
 --------------------------
 
 <a href="https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=projeto_WomanIn_DOTNET" />
 </a>
 
 <a href="https://github.com/johnnymarcelino/project_WomanIn_React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=project_WomanIn_React" />
 </a>
 
 --------------------------
 
 <a href="https://github.com/johnnymarcelino/CHALLENGES_CSHARP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=CHALLENGES_CSHARP" />
 </a>
 
 <a href="https://github.com/johnnymarcelino/SalesWebMVC">
@@ -41,27 +41,27 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/johnnymarcelino/Python-Challenges.py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Python-Challenges.py" />
 </a>
 
 --------------------------
 
 <a href="https://github.com/johnnymarcelino/FreeCodeCamp-Responsive-Web-Design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=FreeCodeCamp-Responsive-Web-Design" />
 </a>
 
 <a href="https://github.com/johnnymarcelino/mongodb-fundamentals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=mongodb-fundamentals" />
 </a>
 
 --------------------------
 
 <a href="https://github.com/johnnymarcelino/The-First-Ultranova">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=The-First-Ultranova" />
 </a>
 
 <a href="https://github.com/johnnymarcelino/Web-Profile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Learning-Language-CSHARP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Web-Profile" />
 </a>
 
 --------------------------
