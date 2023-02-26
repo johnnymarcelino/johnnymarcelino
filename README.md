@@ -16,6 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 --------------------------
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymarcelino&langs_count=8)](https://github.com/johnnymarcelino/github-readme-stats)
+
+--------------------------
+
+
 <a href="https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=projeto_WomanIn_DOTNET" />
 </a>
@@ -63,9 +68,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/johnnymarcelino/Web-Profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Web-Profile" />
 </a>
-
---------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymarcelino&langs_count=8)](https://github.com/johnnymarcelino/github-readme-stats)
 
 --------------------------
