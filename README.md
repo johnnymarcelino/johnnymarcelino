@@ -1,52 +1,64 @@
-- 👋 Hi, I’m Johnny Marcelino.
-- 👀 I’m interested in Fullstack Development.
-- 🌱 I’m currently learning C#, JS, Python, React, HTML, CSS, SQL and NoSQL.
+# Hi there! I’m Johnny Marcelino 💻🤵
+
+[![Johnny's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnny-marcelino/)](https://www.linkedin.com/in/johnny-marcelino/)
+[![Johnny's Resume/CV Badge](https://img.shields.io/badge/-Resume/CV-black?labelColor=white&style=for-the-badge&logo=data:image/png)](https://johnnymarcelino.github.io/Web-Profile/)
+[![Johhny's Twetter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JohnnyGPM)
+[![Johnny's ProfileViews Badge](https://komarev.com/ghpvc/?username=johnnymarcelino&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+
+- 🤵 I'm Johnny Marcelino, I am from São Paulo, Brazil, I'm a junior software developer for now.
+
+- 💻 Fascinated by technologies, engineering enthusiast; persistent in acquiring new knowledge and lover of programming languages.
+
+- 👀 I’m interested in learning new skills involving systems programming and improving my softskills and hardskills.
+
+- 🌱 I’m currently learning **C# .NET**, **.NET Core**, **.NET Framework**, **AZURE**, **JS**, **Node.JS**, **Python**, **React**, **HTML**, **CSS**, **Microsoft SQL Server** and **MongoDB**.
+
 - 💞️ I’m looking to collaborate on a widely diverse theme project.
+
 - 📫 How to reach me: linkedin.com/in/johnny-marcelino
 
+--------------------------
 
-<!---
-johnnymarcelino/johnnymarcelino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---
-<p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymarcelino&show_icons=true&theme=blue-green)
-
-</p>
---->
+[![Johnny's GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnnymarcelino)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSHARP Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 --------------------------
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=johnnymarcelino&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat square&logo=Visual%20Studio%20Code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  </p>
-</p>
 
-
+--------------------------
 
 <a href="https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=projeto_WomanIn_DOTNET" />
 </a>
+
+--------------------------
 
 <a href="https://github.com/johnnymarcelino/project_WomanIn_React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=project_WomanIn_React" />
 </a>
 
 --------------------------
+
 
 <a href="https://github.com/johnnymarcelino/CHALLENGES_CSHARP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=CHALLENGES_CSHARP" />
