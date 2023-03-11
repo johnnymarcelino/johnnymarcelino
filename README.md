@@ -51,8 +51,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=projeto_WomanIn_DOTNET" />
 </a>
 
---------------------------
-
 <a href="https://github.com/johnnymarcelino/project_WomanIn_React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=project_WomanIn_React" />
 </a>
