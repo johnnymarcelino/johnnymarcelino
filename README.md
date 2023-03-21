@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C# .NET**, **.NET Core**, **.NET Framework**, **AZURE**, **JS**, **Node.JS**, **Python**, **React**, **HTML**, **CSS**, **Microsoft SQL Server** and **MongoDB**.
 
-- 💪 I’m looking to collaborate on a widely diverse theme project.
+- ✔ I’m looking to collaborate on a widely diverse theme project.
 
 - 📫 How to reach me: linkedin.com/in/johnny-marcelino
 
