@@ -46,8 +46,6 @@
 </p>
 
 
-# My repors
---------------------------
 
 <a href="https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=projeto_WomanIn_DOTNET" />
