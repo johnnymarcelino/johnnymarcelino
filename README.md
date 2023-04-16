@@ -19,12 +19,11 @@
 
 --------------------------
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnnymarcelino&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnnymarcelino&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnnymarcelino&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnnymarcelino&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnnymarcelino&hide=Html&theme=blue_green) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnnymarcelino&theme=blue_green) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymarcelino&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=johnnymarcelino&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymarcelino&theme=blue_green) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnnymarcelino&theme=blue-green&hide_border=true&border_radius=12)](https://git.io/streak-stats) |
 | :-: | :-: |
-
 
 [![Johnny's GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnnymarcelino)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -48,12 +47,6 @@
 
 --------------------------
 
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=johnnymarcelino&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</p>
-
-
-
 <a href="https://github.com/johnnymarcelino/projeto_WomanIn_DOTNET">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=projeto_WomanIn_DOTNET" />
 </a>
@@ -63,7 +56,6 @@
 </a>
 
 --------------------------
-
 
 <a href="https://github.com/johnnymarcelino/CHALLENGES_CSHARP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=CHALLENGES_CSHARP" />
@@ -103,9 +95,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Web-Profile" />
 </a>
 
-
---------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymarcelino&langs_count=8)](https://github.com/johnnymarcelino/github-readme-stats)
-
---------------------------
