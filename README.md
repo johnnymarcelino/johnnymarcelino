@@ -5,7 +5,7 @@
 [![Johhny's Twetter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JohnnyGPM)
 [![Johnny's ProfileViews Badge](https://komarev.com/ghpvc/?username=johnnymarcelino&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-- 🤵 I'm Johnny Marcelino, I am from São Paulo, Brazil, I'm a software developer and I am passionate about technology.
+- 🤵 I'm Johnny Marcelino and I am from São Paulo, Brazil. I'm a software developer and I am passionate about technology.
 
 - 💻 Fascinated by technologies, engineering enthusiast; persistent in acquiring new knowledge and lover of programming languages.
 
