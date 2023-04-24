@@ -7,7 +7,7 @@
 
 - 🤵 I'm Johnny Marcelino and I am from São Paulo, Brazil. I'm a software developer Full Stack and I am passionate about technology.
 
-- 💻 Fascinated by technologies, engineering enthusiast; persistent in acquiring new knowledge and lover of programming languages.
+- 💻 Fascinated by technologies and an engineering enthusiast, I'm persistent in acquiring new knowledge and a lover of programming languages.
 
 - 👀 I’m interested in learning new skills involving systems programming and improving my softskills and hardskills.
 
