@@ -15,7 +15,7 @@
 
 - ✔ I’m looking to collaborate on a widely diverse theme project.
 
-- 📫 How to reach me: linkedin.com/in/johnny-marcelino.
+- 📫 How to reach me: linkedin.com/in/johnny-marcelino
 
 --------------------------
 
