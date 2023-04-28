@@ -3,7 +3,7 @@
 [![Johnny's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnny-marcelino/)](https://www.linkedin.com/in/johnny-marcelino/)
 [![Johnny's Resume/CV Badge](https://img.shields.io/badge/-Resume/CV-black?labelColor=white&style=for-the-badge&logo=data:image/png)](https://johnnymarcelino.github.io/Web-Profile/)
 [![Johhny's Twetter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JohnnyGPM)
-[![Johnny's ProfileViews Badge](https://komarev.com/ghpvc/?username=johnnymarcelino&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Johnny's Profile Views Badge](https://komarev.com/ghpvc/?username=johnnymarcelino&color=brightgreen&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 - 🤵 I'm Johnny Marcelino and I am from São Paulo, Brazil. I'm a software developer Full Stack and I am passionate about technology.
 
