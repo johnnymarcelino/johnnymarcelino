@@ -1,4 +1,4 @@
-# Hi there! I’m Johnny Marcelino 💻🤵
+# Hi there! I’m Johnny Marcelino. 💻🤵
 
 [![Johnny's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnny-marcelino/)](https://www.linkedin.com/in/johnny-marcelino/)
 [![Johnny's Resume/CV Badge](https://img.shields.io/badge/-Resume/CV-black?labelColor=white&style=for-the-badge&logo=data:image/png)](https://johnnymarcelino.github.io/Web-Profile/)
