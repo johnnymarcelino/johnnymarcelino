@@ -47,3 +47,11 @@
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 --------------------------
+
+<a href="https://github.com/johnnymarcelino/The-First-Ultranova">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=The-First-Ultranova" />
+</a>
+
+<a href="https://github.com/johnnymarcelino/Web-Profile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnnymarcelino&repo=Web-Profile" />
+</a>
